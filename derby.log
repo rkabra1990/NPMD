@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jun 24 14:56:25 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-016b-88ce-d5aa-000004135850 
+on database directory memory:D:\InventoryAdapter\Drop4_Workspace\NPMDInventoryAdapter\testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/anil.mamgain/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_141-b15
+user.dir=D:\InventoryAdapter\Drop4_Workspace\NPMDInventoryAdapter
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
